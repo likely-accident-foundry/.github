@@ -9,7 +9,8 @@ things that exist because they had to.
 
 | Project | What it is |
 |---|---|
-| `css-image` | Convert images into structured CSS zones for animation and code-based art |
+| `css-image` | Image-to-CSS-zones animation and design toolkit |
+| `songbird` | Singing and pitch application |
 
 ---
 *All work © Whimsible. All rights reserved.*
